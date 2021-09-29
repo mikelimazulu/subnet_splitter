@@ -1,3 +1,6 @@
 # subnet_splitter
 a subnet splitting script!
-#python3 main.py
+
+Use : python3 main.py
+
+![](https://raw.githubusercontent.com/mikelimazulu/subnet_splitter/main/unknown.png)
